@@ -1,0 +1,20 @@
+|                          SNACKS                       |
+|-------------------------------------------------------|
+|   FOOD CODE  |          ITEM              |   PRICE   |
+|-------------------------------------------------------|
+|	1      |	GREEN TEA	    |   Rs.40   |
+|	2      | 	MARIE BISCUITS	    |   Rs.30   |
+|	3      | 	COFFEE		    |   Rs.50   |
+|	4      |	RUSKS		    |   Rs.20   | 
+|	5      |	SAMOSA	            |   Rs.25   |  
+|	6      |	VEG PUFFS	    |   Rs.65   |
+|	7      |	COOKIES		    |   Rs.35   | 
+|	8      |	BREAD PAKODA	    |   Rs.25   |
+|	9      |	CUP CAKES	    |   Rs.40   |
+|	10     |	CHOCOLATE TART      |   Rs.50   |
+|	11     |	PIZZA               |   Rs.155  |
+|	12     |	HOTDOG              |   Rs.125  |
+|	13     |	BURGER              |   Rs.110  |
+|	14     |	VEG SOUP            |   Rs.125  |
+|	15     |	CHICKEN SOUP        |   Rs.165  |
+

@@ -1,0 +1,19 @@
+|	         		LUNCH                                  |
+|----------------------------------------------------------------------|
+|      FOOD CODE        |           ITEM                    |    PRICE |
+|----------------------------------------------------------------------|
+|          1            |     Dal khichdi(veg)              |   Rs.120 |
+|          2            |     Paneer 65(veg)                |   Rs.125 |
+|          3            |     Kadhai paneer(veg)            |	Rs.145 |
+|          4            |     Dal tadka(veg)                |   Rs.120 |
+|          5            |     Dal makhani(veg)              |  	Rs.120 |
+|          6            |     Chola bhatura(veg)            |	Rs.200 |
+|          7            |     Mushroom curry(veg)           |   Rs.250 |
+|          8            |     Plain rice(veg)               |   Rs.150 |
+|          9            |     Veg biriyani(veg)             |   Rs.175 |
+|         10            |    Chicken biriyani(non-veg)	    |   Rs.250 |
+|         11            |    Chicken spicy curry(non-veg)   |   Rs.175 |
+|         12            |    Prawn biriyani(non-veg)        |   Rs.300 |
+|         13            |    Prawn curry(non-veg)           |   Rs.350 |
+|         14            |    Sea food plater(non-veg)       |   Rs.750 |
+|         15            |    Fish curry(non-veg)            |   Rs.125 |
