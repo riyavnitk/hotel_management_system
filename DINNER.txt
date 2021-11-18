@@ -1,0 +1,14 @@
+|			    DINNER                              |
+|---------------------------------------------------------------|
+|   FOOD CODE     |            ITEM               |     PRICE   |
+|---------------------------------------------------------------|
+|	1	  |	MALABAR PARATHA           |     Rs.135  |
+|	2	  |	ROTI			  |     Rs.75   |
+|	3	  |	GOBI MANCHURIAN           |     Rs.80   |
+|	4	  |	SALMON CRUDO              |     Rs.225  |
+|	5	  |	CRISPY SUNCHOKES          |     Rs.150  |
+|	6	  |	HONEY-GLAZED HALF DUCK    |     Rs.185  |
+|	7	  |	WHOLE-ROASTED CHICKEN     |     Rs.160  |
+|	8	  |	ROASTED BUTTERNUT SQUASH  |     Rs.175  |
+|	9	  |	LUMBERJACK OMELET         |     Rs.85   |
+|	10	  |	VEGGIE WRAP               |     Rs.50   |

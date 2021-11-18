@@ -1,0 +1,14 @@
+|                     BREAKFAST                |
+|----------------------------------------------|
+|FOOD CODE|	 ITEM		|	 PRICE |
+|----------------------------------------------|
+|    1	  |    Plain  dosa	|	 Rs.70 |
+|    2    |    Masala dosa	|	 Rs.120|
+|    3    |    Sandwich		|        Rs.60 |
+|    4    |  Bread butter toast	|        Rs.50 |
+|    5    |    Tea		|	 Rs.45 |
+|    6    |    Coffee		|        Rs.55 |
+|    7    |    French fries	|	 Rs.30 |
+|    8    |    Chocolate shake	|        Rs.75 |
+|    9    |    Pineapple shake	|        Rs.80 |
+|    10   |    Oreo shake	|	 Rs.60 |
